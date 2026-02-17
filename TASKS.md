@@ -22,30 +22,30 @@
 
 ### 🧭 Navbar
 
-- [ ] Logo/Website Name (SwiftCart) on the left
-- [ ] Menu Items (Home, Products, About, Contact) in center
-- [ ] Cart Icon/Button on right
-- [ ] Cart item count (Bonus)
+- [x] Logo/Website Name (SwiftCart) on the left
+- [x] Menu Items (Home, Products, About, Contact) in center
+- [x] Cart Icon/Button on right
+- [x] Cart item count (Bonus)
 
 ---
 
 ### 🎨 Banner / Hero Section
 
-- [ ] Background image (shopping related)
-- [ ] Title (e.g., "Best Collection For You")
-- [ ] Subtitle
-- [ ] Centered "Shop Now" button
+- [x] Background image (shopping related)
+- [x] Title (e.g., "Best Collection For You")
+- [x] Subtitle
+- [x] Centered "Shop Now" button
 
 ---
 
 ### ⭐ Features Section
 
-- [ ] Section heading
-- [ ] 3–4 feature items:
-  - [ ] Fast Delivery
-  - [ ] 24/7 Support
-  - [ ] Secure Payment
-  - [ ] Extra Feature (Optional)
+- [x] Section heading
+- [x] 3–4 feature items:
+  - [x] Fast Delivery
+  - [x] 24/7 Support
+  - [x] Secure Payment
+  - [x] Extra Feature (Optional)
 
 ---
 
@@ -61,19 +61,19 @@
 
 ### 📩 Newsletter & Footer
 
-- [ ] Newsletter subscription form (Email + Subscribe button)
-- [ ] Footer:
-  - [ ] Copyright
-  - [ ] Social Links
-  - [ ] Quick Links
+- [x] Newsletter subscription form (Email + Subscribe button)
+- [x] Footer:
+  - [x] Copyright
+  - [x] Social Links
+  - [x] Quick Links
 
 ---
 
 ### 📱 Responsiveness
 
-- [ ] Fully mobile responsive
-- [ ] Tablet responsive
-- [ ] Desktop optimized
+- [x] Fully mobile responsive
+- [x] Tablet responsive
+- [x] Desktop optimized
 
 ---
 
